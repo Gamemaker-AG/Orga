@@ -1,0 +1,10 @@
+add repo
+add file with some text
+commit
+branch
+edit text
+commit
+checkout back
+edit text again
+commit
+merge
